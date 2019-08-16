@@ -1,12 +1,49 @@
 {
-  "id": 0,
-  "project_name": "Random_Quote_Generator_TD_Project_1",
-  "description": "",
-  "technologies": [],
-  "live_link": "",
-  "github_link": "",
-  "image_urls": []
-},
-{
-  "id": 1,
+  "projects": [
+    {
+      "id": 0,
+      "project_name": "Random_Quote_Generator_TD_Project_1",
+      "description": "Project that utilizes arrays and functions to display random quotes",
+      "technologies": [],
+      "live_link": "http://https://codenuggets.github.io/Random_Quote_Generator_TD_Project_1/",
+      "github_link": "https://github.com/Codenuggets/Random_Quote_Generator_TD_Project_1",
+      "image_urls": []
+    },
+    {
+      "id": 1,
+      "project_name": "List-Pagination-and-Filtering-TD-Unit-2-Project",
+      "description": "This project uses Javascript to take a list of students written in HTML and filter them into groups of 10 for easier reading. These groups are seperated into different page",
+      "technologies": [],
+      "live_link": "https://codenuggets.github.io/List-Pagination-and-Filtering-TD-Unit-2-Project/",
+      "github_link": "https://github.com/Codenuggets/List-Pagination-and-Filtering-TD-Unit-2-Project",
+      "image_urls": []
+    },
+    {
+      "id": 2,
+      "project_name": "Interactive-Form-TD-Project-3",
+      "description": "Project that makes a website form more user friendly by adding customized, conditional behavior, validating user input and providing helpful error message",
+      "technologies": [],
+      "live_link": "https://codenuggets.github.io/Interactive-Form-TD-Project-3/",
+      "github_link": "https://github.com/Codenuggets/Interactive-Form-TD-Project-3",
+      "image_urls": []
+    },
+    {
+      "id": 3,
+      "project_name": "OOP-Game-Show-App-TD-Project-4",
+      "description": "Word guessing game project that uses object oriented programming in Javascript",
+      "technologies": [],
+      "live_link": "https://codenuggets.github.io/OOP-Game-Show-App-TD-Project-4/",
+      "github_link": "https://github.com/Codenuggets/OOP-Game-Show-App-TD-Project-4",
+      "image_urls": []
+    },
+    {
+      "id": 4,
+      "project_name": "Public-API-Requests-TD-Project-5",
+      "description": "Javascript project using Ajax and asyncronous programming to build a display of employees by fetching from an API",
+      "technologies": [],
+      "live_link": "https://codenuggets.github.io/Public-API-Requests-TD-Project-5/",
+      "github_link": "https://github.com/Codenuggets/Public-API-Requests-TD-Project-5",
+      "image_urls": []
+    }
+  ]
 }
