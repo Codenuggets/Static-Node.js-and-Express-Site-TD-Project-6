@@ -19,7 +19,8 @@ app.get('/about', (req, res) => {
 });
 
 app.get('/:id', (req, res) => {
-  res.render('index');
+  const {id, project_name, description, technologies, live_link, github_link, image_urls} = projects[req.params.id];
+  res.render('project', {id, project_name, description, technologies, live_link, github_link, image_urls});
 })
 
 app.listen(3000, () => {
