@@ -1,0 +1,11 @@
+extends layout
+
+block content
+  article.grid-container.portfolio-intro.portfolio-project
+    .grid-x
+      .cell.small-6.medium-9.large-9
+        h1= `${error.message} - Status: ${error.status}`
+    
+        a.button.expanded(href='/') Go Home
+        p.lead.text-light
+          | #{error.stack}
