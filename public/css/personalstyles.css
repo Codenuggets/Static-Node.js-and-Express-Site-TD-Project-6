@@ -1,0 +1,20 @@
+body {
+  background-color: #F4F4F4;
+}
+
+.portfolio-me {
+  background-color: #4646A3;
+}
+
+.portfolio-me p {
+  font-size: 15px;
+  color: #E5E5E5;
+}
+
+.portfolio-me a {
+  color: #CECECE;
+}
+
+.thumbnail {
+  border: solid 3px #070707;
+}
