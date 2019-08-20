@@ -16,5 +16,11 @@ body {
 }
 
 .thumbnail {
-  border: solid 3px #070707;
+  border: solid 3px #F4F4F4;
+  border-radius: 10px;
+}
+
+#project {
+  border: solid 4px #4646A3;
+  border-radius: 10px;
 }

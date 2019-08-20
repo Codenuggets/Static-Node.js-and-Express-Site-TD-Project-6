@@ -1,7 +1,5 @@
 const express = require('express');
 const { projects }  = require('./data.json');
-//const { projects } = data;
-
 
 const app = express();
 
