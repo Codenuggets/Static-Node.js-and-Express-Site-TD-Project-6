@@ -11,7 +11,7 @@ block content
   article.grid-container.portfolio-index
     
     .grid-x.grid-margin-x.small-up-2.medium-up-2.large-up-3
-
+      //- Loops though each project and displays the thumbnail image and name of project
       each project in projects
         .cell
           a(href='/projects/' + project.id)
