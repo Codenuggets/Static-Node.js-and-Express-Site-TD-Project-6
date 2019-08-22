@@ -27,7 +27,6 @@ app.get('/projects/:id', (req, res, next) => {
     // Assigns the properties from the project requested from the specific id
     const { id, project_name, description, technologies, live_link, github_link, image_urls } = projects[req.params.id];
     res.render('project', {id, project_name, description, technologies, live_link, github_link, image_urls});
-    next();
   }
 });
 
